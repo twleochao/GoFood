@@ -5,9 +5,9 @@ from kivy.uix.button import Button
 class Widget(Widget):
     pass
 
-class App(App):
+class GoFoodApp(App):
     def build(self):
         return Widget()
 
 if __name__ == '__main__':
-    App().run()
+    GoFoodApp().run()
