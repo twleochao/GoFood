@@ -1,3 +1,3 @@
 .venvback
 .venvfront
-__pycache__
+*.pyc
